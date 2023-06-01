@@ -52,6 +52,8 @@ Then, all you have to do is register by following [this tutorial](https://github
 **Attention!! You are required to register via captcha!!
 If you want to register a landline number, follow [this post.](https://github.com/AsamK/signal-cli/issues/1202#issuecomment-1508810292)**
 
+# Usefull link
+Signal Notifier plugin for Octoprint : https://plugins.octoprint.org/plugins/signalnotifier/
 
 # Licence
 
