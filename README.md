@@ -24,7 +24,11 @@ cd ~
 ```
 and download my script
 ```sh
-sudo wget https://
+git clone https://github.com/Nosnahc/Signal-cli-with-Octopi
+```
+then go to the folder 
+```sh
+cd ./Signal-cli-with-Octopi
 ```
 Getting the latest version number of signal-cli [here](https://github.com/AsamK/signal-cli/releases/).
 _As of this writing, the version is 0.11.11_
